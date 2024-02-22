@@ -2,6 +2,8 @@
 <img src="./braitenberg/assets/images/dtlogo.png" alt="Duckietown Logo" width="50%">
 </p>
 
+#**THIS IS ZOE'S VERSION**
+
 # **Duckietown Learning Experiences (LX) - MOOC Exercises**
 
 # About this repository
